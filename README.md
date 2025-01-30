@@ -12,7 +12,7 @@ This project compares different implementations of Long short term memory networ
 
 ## Do your own experiments
 
-1. Clone the repository.
+1. Fork and clone the repository.
 ```bash
 git clone https://github.com/FabianHildebrandt/LSTM-ADs.git
 ```
@@ -26,7 +26,7 @@ cd LSTM-ADs
 
 4. Install the dependencies.
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 5. Run the experiments.
